@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QTC</string>
+    <string name="hintloginsenha">Senha...</string>
+    <string name="loginmatricula">Matrícula...</string>
+    <string name="btnloginentrar">ENTRAR</string>
+    <string name="btnlogincadastrar">CADASTRAR</string>
+</resources>
